@@ -6,7 +6,7 @@ It is build on top of Sharebrained's firmware, meaning that the original functio
 
 As its name implies, HAVOC is a firmware made to have serious fun with various radio systems, mainly involving French systems (for now). Don't use it, we never did.
 
-ablanquart's edit - although I'm quite a shitty C++ programmer, I am modifying furrtek's code to work with similar systems in the USA, for academic study ONLY.  It is distributed under the same licenses as the origan furrtek/havoc and sharebrained technologies code.
+ablanquart's edit - although I'm quite a shitty C++ programmer, I am modifying furrtek's code to work with similar systems in the USA, for academic study ONLY.  It is distributed under the same licenses as the original furrtek/havoc and sharebrained technologies code.
 
 Fork features:
 * Close-Call™ style scanner
